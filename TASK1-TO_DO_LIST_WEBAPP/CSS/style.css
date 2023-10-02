@@ -3,11 +3,18 @@
     padding: 0;
     box-sizing: border-box;
 }
+header{
+    text-align: center;
+    font-size: 70px;
+    font-family: cursive;
+}
 .container{
-    background: linear-gradient(135deg,#153677,#4e085f);
+    background: linear-gradient(135deg,#e4522e,#4e085f);
     padding: 10px;
-    min-height: 100vh;
-    width: 100%;
+    min-height: 50vh;
+    margin: auto;
+    width: 50%;
+    border-radius: 50px;
 }
 .to-do{
     width: 100%;
