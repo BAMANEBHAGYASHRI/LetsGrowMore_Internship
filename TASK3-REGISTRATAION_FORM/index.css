@@ -1,0 +1,43 @@
+body{
+    background-image: url(./IMAGES/images.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 350px;
+    margin-top: 30px;
+}
+
+h2{
+    color: antiquewhite;
+}
+table{
+ margin-top: 50px;
+ 
+ 
+
+border-collapse: collapse;
+ color: white;
+ border: none;
+ 
+}
+input[type="text"]
+{
+    background: transparent;
+    border: none;
+}
+
+#Show th, #Show td{
+ padding: 12px;
+ 
+
+}
+
+#btn{
+    border: none;
+    text-align: center;
+
+}
+#btn td input{
+    width: 100%;
+   
+    background-color: beige;
+}
